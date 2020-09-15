@@ -1,13 +1,21 @@
 # ELM2020-Intention-and-Attention-in-Image-Text-Presentations
 
 1. Distribution of types of pronoun: Visible (1187 data points)
+
   -notPronoun               7.71% - 199 out of 2580
+  
   -Indexical               29.92% - 772 out of 2580
+  
   -Demonstrative            6.63% - 171 out of 2580
+  
   -Anaphoric               13.72% - 354 out of 2580
+  
   -Bound                    8.06% - 208 out of 2580
+  
   -Indexical_Bound         32.98% - 851 out of 2580
+  
   -BackAnaphora             0.89% - 23 out of 2580
+  
   -Other                    0.04% - 1 out of 2580
 
 2. Distribution of types of pronoun: Subjective (103 data points)
