@@ -2,9 +2,9 @@
 
 1. Distribution of types of pronoun: Visible (1187 data points)
 
-  -notPronoun               7.71% - 199 out of 2580
+  - notPronoun               7.71% - 199 out of 2580
   
-  -Indexical               29.92% - 772 out of 2580
+  - Indexical               29.92% - 772 out of 2580
   
   -Demonstrative            6.63% - 171 out of 2580
   
